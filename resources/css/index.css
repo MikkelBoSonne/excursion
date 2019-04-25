@@ -1,0 +1,44 @@
+* {
+  text-align: center;
+  color: white;
+  font-family: verdana ,sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  color: aquamarine;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+.C {
+  text-align: right;
+  color: grey;
+}
+
+.h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.img1 {
+  margin:0 auto;
+  padding-right: 200px;
+  padding-left: 200px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.img2 {
+  text-align: center;
+  margin: ;
+  padding:0 auto;
+  width: 5%;
+}
